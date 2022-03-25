@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ajitharunai" alt="ajitharunai" /></a> </p>
 
-- 🔭 I’m currently working on [Responsive Resume Profile Web Page](https://responsive-resume-web-page.vercel.app/)
+- 🔭 I’m currently working on [Web Desing தமிழ் ](https://ajitharunai.github.io/Web-design-in-Tamil-Learning-Web-page/)
 
 - 🌱 I’m currently learning **Machine Learning | Deep Learning | React Js | Portfolio**
 
